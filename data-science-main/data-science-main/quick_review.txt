@@ -1,0 +1,287 @@
+python revison 
+
+https://www.geeksforgeeks.org/python-programming-language/
+https://quickref.me/python
+https://zerotomastery.io/cheatsheets/python-cheat-sheet/
+
+Python Basics
+     Python language introduction
+     Python 3 basics
+     Python The new generation language
+     Important difference between python 2.x and python 3.x with example
+     Keywords in Python | Set 1, Set 2
+     Namespaces and Scope in Python
+     Statement, Indentation and Comment in Python
+     Structuring Python Programs
+     How to check if a string is a valid keyword in Python?
+     How to assign values to variables in Python and other languages
+     How to print without newline in Python?
+     Decision making
+     Basic calculator program using Python
+     Python Language advantages and applications
+
+Input/Output
+     Taking input in Python
+     Taking input from console in Python
+     Taking multiple inputs from user in Python
+     Python Input Methods for Competitive Programming
+     Vulnerability in input() function – Python 2.x
+     Python | Output using print() function
+     How to print without newline in Python?
+     Python | end parameter in print()
+     Python | sep parameter in print()
+     Python | Output Formatting
+
+Data Types
+     Introduction to DataTypes
+     Strings
+     List
+     Tuples
+     Sets
+     Dictionary
+     Arrays
+
+Variables
+     Variables, expression, condition and function
+     Maximum possible value of an integer in python?
+     Global and local variables in python
+     Packing and unpacking arguments in python
+     Type conversion in python
+     Byte objects vs string in python
+     Print single and multiple variable
+     Swap variable
+     Private variables
+     __name__ (A Special variable) in Python
+
+Operators
+     Basic operator in python
+     Logical and bitwise not operator on boolean
+     Ternary operator
+     Division operator in python
+     Operator Overloading in Python
+     Any & all in python
+     Inplace and standard operators in python
+     Operator function in python | Set – 1
+     Inplace operator | Set -1
+     Logic Gates in Python
+     Python | a += b is not always a = a + b
+     Difference between == and is operator in Python
+     Python Membership and Identity Operators | in, not in, is, is not
+
+Control Flow
+     Loops
+     Loops and Control Statements (continue, break and pass) in Python
+     Looping technique in python
+     range vs xrange on python
+     Programs for printing pyramid technique in python
+     Chaining comparison in python
+     else with for
+     switch function
+     Using iteration in python effectively
+     Python Itertools
+     Python __iter__() and __next__() | Converting an object into an iterator
+     Python | Difference between iterable and iterator
+     Generators in python
+     Generators expression in python
+
+Functions
+     Functions in Python
+     class method vs static method in Python
+     Write an empty function in Python – pass statement
+     Yield instead of Return
+     Return Multiple Values
+     Partial Functions in Python
+     First Class functions in Python
+     Precision Handling
+     *args and **kwargs
+     Python closures
+     Function Decorators
+     Decorators in Python
+     Decorators with parameters in Python
+     Memoization using decorators in Python
+     Help function in Python
+     Python | __import__() function
+     Python | range() does not return an iterator
+     Coroutine in Python
+     Python bit functions on int (bit_length, to_bytes and from_bytes)
+
+Object Oriented Concepts
+     Python3 Intermediate Level Topics
+     Class, Object and Members
+     Data Hiding and Object Printing
+     Inheritance, examples of object, issubclass and super
+     Polymorphism in Python
+     Class and static variable in python
+     Class method and static method in python
+     Changing class members
+     Constructors in Python
+     Destructors in Python
+     First class function
+     Metaprogramming with metaclasses
+     Class and instance attribute
+     Reflection
+     Garbage collection
+
+Exception Handling
+     Exception handling
+     User defined Exception
+     Built-in Exception
+     clean up action
+     Nzec error
+     try and except in Python
+
+Python Collections
+     Counters
+     OrderedDict
+     Defaultdict
+     ChainMap
+     NamedTuple
+     DeQue
+     Heap
+     Collections.UserDict
+     Collections.UserList
+     Collections.UserString
+
+Django Framework
+     Django Tutorial
+     Django Basics
+     Django Introduction and Installation
+     Django Forms
+     Views In Django
+     Django Models
+     Django Templates
+     ToDo webapp using Django
+     Django News App
+     Weather app using Django
+
+Django Framework
+     Django Tutorial
+     Django Basics
+     Django Introduction and Installation
+     Django Forms
+     Views In Django
+     Django Models
+     Django Templates
+     ToDo webapp using Django
+     Django News App
+     Weather app using Django
+
+Numpy
+     Python Numpy
+     Numpy | ndarray
+     Numpy | Array Creation
+     Numpy | Data Type Objects
+     Data type Object (dtype) in NumPy
+     Numpy | Indexing
+     Numpy | Basic Slicing and Advanced Indexing
+     Numpy | Iterating Over Array
+     Numpy | Binary Operations
+     Numpy | Linear Algebra
+     Numpy | Sorting, Searching and Counting
+
+Pandas
+     Pandas Tutorial
+     Python | Pandas DataFrame
+     Creating a Pandas DataFrame
+     Dealing with Rows and Columns in Pandas DataFrame
+     Indexing and Selecting Data with Pandas
+     Boolean Indexing in Pandas
+     Conversion Functions in Pandas DataFrame
+     Iterating over rows and columns in Pandas DataFrame
+     Working with Missing Data in Pandas
+     Python | Pandas Series
+     Data analysis using Pandas
+     Read csv using pandas.read_csv()
+
+Machine Learning with Python
+     Machine Learning Tutorial
+     Linear Regression
+     Understanding Logistic Regression
+     K means Clustering
+     Python | Image Classification using keras
+     creating a simple machine learning model
+     Python | Implementation of Movie Recommender System
+     ML | Boston Housing Kaggle Challenge with Linear Regression
+     Cancer cell classification using Scikit-learn
+     Saving a machine learning Model
+     Applying Convolutional Neural Network on mnist dataset
+     Python | NLP analysis of Restaurant reviews
+     Learning Model Building in Scikit-learn
+     Implementing Artificial Neural Network training process
+     A single neuron neural network in Python
+     Python | How and where to apply Feature Scaling?
+     Identifying handwritten digits using Logistic Regression in PyTorch
+
+Python GUI
+     Tkinter Tutorial
+     Kivy Tutorial
+     Python GUI – tkinter
+     Simple GUI calculator using Tkinter
+     Simple registration form using Tkinter
+     Create a stopwatch using python
+     Designing GUI applications Using PyQt
+     Color game using Tkinter in Python
+     Make Notepad using Tkinter
+     Message Encode-Decode using Tkinter
+     Real time currency convertor using Tkinter
+
+Modules in Python
+     Introduction of Modules
+     OS module
+     Calendar Module
+     Python Urllib Module
+     pprint
+     Timit function
+     Import module
+
+Working With Database
+     MongoDB and Python
+     SQL using Python | Set 1
+     SQL using Python and SQLite | Set 2
+     SQL using Python | Set 3 (Handling large data)
+     Inserting variables to database table using Python
+     MYSQLdb Connection in Python
+     Database management in PostgreSQL
+     Oracle Database Connection in Python
+Misc
+     10 Essential Python Tips And Tricks For Programmers
+     Amazing hacks of Python
+     Input method for comptetive programming
+     Optimization Tips for Python Code
+     Why import star in Python is a bad idea
+     Why is python best suited for Competitive Coding?
+     Python trics for Competitive Coding
+
+
+Applications and Projects
+     Python | Program to crawl a web page and get most frequent words
+     Facebook login using python
+     FB Chatting through python
+     C/C++ code formating tool
+     Find Live running status and PNR of any train using Railway API
+     Fetching top news using News API
+     Fetching text from Wikipedia’s Infobox in Python
+     Get emotions of images using Microsoft emotion API in Python
+     Website blocker
+     Send SMS updates to mobile phone using python
+     Python Desktop News Notifier in 20 lines
+     Morse Code Translator In Python
+     Performing Google Search using Python code
+     Reading and generating qr code
+     Birthday reminder application in python
+     Program to display Astrological sign or Zodiac sign for given date of birth
+     Track bird migration
+     News notifier
+     whatsapp using python
+     Python | Automating Happy Birthday post on Facebook using Selenium
+     Design a Keylogger in Python
+     Python | Implementation of Movie Recommender System
+
+Recommended Python Tutorials
+     Python Tutorial
+     Machine Learning Tutorial
+     Django Tutorial
+     Pandas Tutorial
+     OpenCV Python Tutorial
+     Selenium Python Tutorial
+     Python Tkinter Tutorial

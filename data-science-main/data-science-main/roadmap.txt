@@ -1,0 +1,47 @@
+https://www.freecodecamp.org/news/data-science-learning-roadmap/
+
+     1.programming 
+          Data strucctures
+          SQL scripting
+          Conditions, list/dist comprehension
+          Object oriented programming
+          Working with external libraries
+          Fundamental algorithm - searching, sorting, trees, graphs extraction
+
+     2.data extraction and wrangling
+          scripting - extracting data from websites, APIs and DBs 
+          Data formatting -type conversion
+          libraries - pandas, numpy
+          Data transformation - joining, slicing, indexing
+          Handling missing values
+
+     3.EDA and storytelling 
+
+     4.Data engineering
+          strong programming skills
+          working with CLI 
+          Building ETL pipelines
+          Using tools - Spark, kafka, airflow etc.
+          Cloud services - AWS, GCP, Azure
+          Algorithms - Mapreduce, YARN etc
+          Develping ML models in production
+
+     4.Applied statistics and mathematics
+          Descriptive - mean, median, mode, std etc
+          Inferential - hypothesis & A/B testing, CL, p-value
+          Experiment design
+          Anova, chi-Square testing
+          Sampling, Data distributions and t-test
+          linear aljebra
+          Single and multivariate calculus
+
+     5.Machine learning
+          Supervised - Classification, regression
+          Unsupervised - clustering, dimensionality reduction
+          Reinforcement learnign - TF-agents, optimizing rewards
+          Preformance matrices - RMS, accuracy, confusion matrix, AUC-ROC etc
+          Hyperparameter tuning
+          Statistical ML- KNN, decision treees, bagging, boosting
+          Ensemble models- Random forest, Voting classifiers, adaboost
+          
+     6.Deep learning
